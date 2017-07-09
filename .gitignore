@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# General files
+Sentiment_RNN_Solution.ipynb
